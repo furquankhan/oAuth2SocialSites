@@ -1,0 +1,9 @@
+D:\Projects\dataanalytics\da\mf.da.services\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\dataanalytics\da\mf.da.services\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\dataanalytics\da\mf.da.services\obj\Debug\mf.da.services.csprojResolveAssemblyReference.cache
+D:\Projects\dataanalytics\da\mf.da.services\bin\Debug\mf.da.services.dll
+D:\Projects\dataanalytics\da\mf.da.services\bin\Debug\mf.da.services.pdb
+D:\Projects\dataanalytics\da\mf.da.services\obj\Debug\mf.da.services.dll
+D:\Projects\dataanalytics\da\mf.da.services\obj\Debug\mf.da.services.pdb
+D:\Projects\dataanalytics\da\mf.da.services\bin\Debug\mf.da.entity.dll
+D:\Projects\dataanalytics\da\mf.da.services\bin\Debug\mf.da.entity.pdb

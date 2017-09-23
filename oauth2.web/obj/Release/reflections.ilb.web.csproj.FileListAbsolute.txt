@@ -1,0 +1,12 @@
+D:\Projects\ilb\reflections.ilb.web\bin\reflections.ilb.web.dll
+D:\Projects\ilb\reflections.ilb.web\bin\reflections.ilb.web.pdb
+D:\Projects\ilb\reflections.ilb.web\bin\reflections.ilb.services.dll
+D:\Projects\ilb\reflections.ilb.web\bin\EntityFramework.dll
+D:\Projects\ilb\reflections.ilb.web\bin\Newtonsoft.Json.dll
+D:\Projects\ilb\reflections.ilb.web\bin\reflections.ilb.services.pdb
+D:\Projects\ilb\reflections.ilb.web\bin\Newtonsoft.Json.xml
+D:\Projects\ilb\reflections.ilb.web\obj\Release\reflections.ilb.web.csprojResolveAssemblyReference.cache
+D:\Projects\ilb\reflections.ilb.web\obj\Release\reflections.ilb.web.dll
+D:\Projects\ilb\reflections.ilb.web\obj\Release\reflections.ilb.web.pdb
+D:\Projects\ilb\reflections.ilb.web\bin\reflections.ilb.entity.dll
+D:\Projects\ilb\reflections.ilb.web\bin\reflections.ilb.entity.pdb

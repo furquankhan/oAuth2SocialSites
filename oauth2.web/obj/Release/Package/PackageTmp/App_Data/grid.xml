@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<grid>
+  <mailinfo>
+    <field dbname="ID" isvisible="0" label="id" />
+    <field dbname="datecreated" isvisible="1" label="Date Created" />
+    <field dbname="updatetouser" isvisible="1" label="Is Updated?" />
+  </mailinfo>
+  <users>
+    <field dbname="ID" isvisible="0" label="id" />
+    <field dbname="name" isvisible="1" label="Name" />
+    <field dbname="phone" isvisible="1" label="Phone" />
+    <field dbname="password" isvisible="0" label="Password" />
+    <field dbname="emailid" isvisible="1" label="Email id" />
+  </users>
+
+</grid>

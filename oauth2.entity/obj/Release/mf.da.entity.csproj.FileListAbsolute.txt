@@ -1,0 +1,7 @@
+D:\Projects\dataanalytics\da\mf.da.entity\bin\Release\mf.da.entity.dll.config
+D:\Projects\dataanalytics\da\mf.da.entity\bin\Release\mf.da.entity.dll
+D:\Projects\dataanalytics\da\mf.da.entity\bin\Release\mf.da.entity.pdb
+D:\Projects\dataanalytics\da\mf.da.entity\bin\Release\EntityFramework.dll
+D:\Projects\dataanalytics\da\mf.da.entity\obj\Release\mf.da.entity.csprojResolveAssemblyReference.cache
+D:\Projects\dataanalytics\da\mf.da.entity\obj\Release\mf.da.entity.dll
+D:\Projects\dataanalytics\da\mf.da.entity\obj\Release\mf.da.entity.pdb

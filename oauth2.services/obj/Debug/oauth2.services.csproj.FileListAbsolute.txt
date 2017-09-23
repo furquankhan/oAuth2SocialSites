@@ -1,0 +1,14 @@
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\oauth2.services.dll.config
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\oauth2.services.dll
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\oauth2.services.pdb
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\EntityFramework.dll
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\Newtonsoft.Json.dll
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\EntityFramework.xml
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\Newtonsoft.Json.xml
+D:\Furquan\Projects\oAuth2\oauth2.services\obj\Debug\oauth2.services.dll
+D:\Furquan\Projects\oAuth2\oauth2.services\obj\Debug\oauth2.services.pdb
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\oauth2.entity.dll
+D:\Furquan\Projects\oAuth2\oauth2.services\bin\Debug\oauth2.entity.pdb
+D:\Furquan\Projects\oAuth2\oauth2.services\obj\Debug\oauth2.services.csprojResolveAssemblyReference.cache

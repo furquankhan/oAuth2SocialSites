@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Routing>
+  <route name="login" key="login" url="~/v1/user/login.aspx" />
+  <route name="dashboard" key="dashboard" url="~/v1/dashboard/default.aspx" />
+  <route name="company" key="company" url="~/v1/company/default.aspx" />
+  <route name="sites" key="sites" url="~/v1/sites/default.aspx?id" />
+  <route name="sitedetail" key="sites/{siteid}" url="~/v1/sites/sitedetails.aspx" />
+  <route name="sitehotspot" key="sites/{siteid}/hotspot" url="~/v1/sites/hotspot/default.aspx" />
+  <route name="guards" key="guards" url="~/v1/guards/default.aspx" />
+  <route name="hotspot-print" key="hotspot/{hotspotid}/print" url="~/v1/sites/hotspot/print.aspx" />
+  <route name="jobs" key="sites/{siteid}/jobs" url="~/v1/sites/jobs/default.aspx" />
+</Routing>

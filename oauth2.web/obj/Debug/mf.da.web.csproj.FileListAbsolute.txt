@@ -1,0 +1,12 @@
+D:\Projects\dataanalytics\da\mf.da.web\obj\Debug\mf.da.web.csprojResolveAssemblyReference.cache
+D:\Projects\dataanalytics\da\mf.da.web\bin\mf.da.web.dll
+D:\Projects\dataanalytics\da\mf.da.web\bin\mf.da.web.pdb
+D:\Projects\dataanalytics\da\mf.da.web\bin\mf.da.entity.dll
+D:\Projects\dataanalytics\da\mf.da.web\bin\mf.da.services.dll
+D:\Projects\dataanalytics\da\mf.da.web\bin\EntityFramework.dll
+D:\Projects\dataanalytics\da\mf.da.web\bin\Newtonsoft.Json.dll
+D:\Projects\dataanalytics\da\mf.da.web\bin\mf.da.entity.pdb
+D:\Projects\dataanalytics\da\mf.da.web\bin\mf.da.services.pdb
+D:\Projects\dataanalytics\da\mf.da.web\bin\Newtonsoft.Json.xml
+D:\Projects\dataanalytics\da\mf.da.web\obj\Debug\mf.da.web.dll
+D:\Projects\dataanalytics\da\mf.da.web\obj\Debug\mf.da.web.pdb

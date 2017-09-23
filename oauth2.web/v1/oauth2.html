@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+    </head>
+    <script src="../scripts/jquery-1.10.2.js"></script>
+    <script src="../scripts/jquery-ui.js"></script>
+    <script src="js/main.js"></script>
+    <body>
+        <button id="googleLogin" onclick="login('google')">Login via Google</button>
+        <button id="facebookLogin" onclick="login('facebook')">Login via Facebook</button>
+        <button id="twitterLogin" onclick="login('twitter')">Login via Twitter</button>
+    </body>
+    <script>
+        function login(socialsite)
+        {
+            var url = '';
+            switch (socialsite)
+            {
+                case 'google':
+                    url = "";
+                    break;
+                case 'facebook':
+                    var clientid = '141010563183423';
+                    var clientsecret = '073f61d251a78fc63803a3cd09b55ae4';
+                    var rUrl = 'http://local.oauth2.com/facebookCallback.aspx';
+                    url = "https://www.facebook.com/dialog/oauth?client_id=" + clientid + "&redirect_uri=" + rUrl + "&response_type=token&scope=user_about_me,user_birthday,manage_pages,email";
+                    break;
+                case 'twitter':
+                    url = "";
+                    break;
+            }
+            location.href = url;
+        }
+    </script>
+</html>
